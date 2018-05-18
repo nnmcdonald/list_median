@@ -1,0 +1,5 @@
+-- Prompts user to enter Integers, one per line, 
+-- then prints the median value
+--
+-- ** The program does not error check the input, so **
+-- ** it will fail for anything but an Integer       **
